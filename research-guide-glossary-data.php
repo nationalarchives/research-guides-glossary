@@ -305,7 +305,7 @@ $glossaryDefinitions = array(
 	'wildcard1' => 'substitute a keyword, or parts of it, with an asterisk so that the search looks for variants of a word',
 	'writ1' => 'A formal written command of the Crown or of a court',
 	'writs1' => 'Formal command issued by a court. ',
-	'xpoundx1' => 'There may be a charge for accessing this information. Searching indexes may be free.',
+	'xpoundx1' => 'There may be a charge to view these records. Searching indexes may be free. Viewing and downloading are free on site at the National Archives.',
 	'xpoundx2' => 'there will be a charge'
 );
 ?>
