@@ -1,6 +1,7 @@
 ﻿<?php 
 
 $glossaryDefinitions = array(
+	'100-year-rule' => 'a method for calculating the closure period for records that contain personal information about people who may still be alive. The record will remain closed for 100 years from their date of birth',
 	'access-to-archives1' => 'a searchable online database which contains the catalogues of archives across England and Wales',
 	'ad-quod-damnum1' => 'A writ directing Crown officials to inquire whether a grant or licence would be prejudicial to the interests of the Crown or others',
 	'ad-valorem-duty1' => 'A duty which is graded according to the cost, or market value, of the article taxed',
