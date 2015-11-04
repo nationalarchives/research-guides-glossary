@@ -271,6 +271,7 @@ $glossaryDefinitions = array(
 	'service-records1' => 'Service record - a document recording the career of an individual in the armed forces.',
 	'sessional-paper1' => 'A report or paper which has been tabled in Parliament.',
 	'sessional-papers1' => 'Sessional paper - a report or paper which has been tabled in Parliament.',
+	'ships-covers1' => 'File containing all paperwork related to the design of a ship and its subsequent modification.',
 	'ships-log1' => 'A record of data concerning a ship\'s position, crew, previous ports of call, and weather.',
 	'special-verdict1' => 'Verdict by the jury on the facts of a case leaving the judge to decide on how to apply the law on the facts.',
 	'squadron1' => 'An airborne unit in the RAF.',
