@@ -241,7 +241,6 @@ $glossaryDefinitions = array(
 	'pupilteacher-system-1' => 'System introduced in 1846 as a 5 year apprenticeship from age 13.  Students received instruction from a master and did teaching themselves for which they were paid.  ',
 	'quarter-sessions-1' => 'County magistrates (Justices of the Peace) sitting quarterly to try civil and criminal offences.',
 	'rating1' => 'A seaman ranking lower than an officer. These are the most junior class of seamen in the Royal Navy.',
-	'ratings1' => 'Rating - a seaman ranking below an officer.',
 	'ratings1' => 'Rating - a seaman ranking lower than an officer. These are the most junior class of seamen in the Royal Navy.',
 	'ratings2' => 'Rating - a seaman ranking below an officer.',
 	'recommendation1' => 'An official statement, usually supplied by a commanding officer, recommending an individual for a medal or other award, citing reasons.',
