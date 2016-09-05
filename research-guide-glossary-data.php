@@ -1,4 +1,5 @@
 <?php 
+<?php 
 $glossaryDefinitions = array(
 	'100-year-rule' => 'A method for calculating the closure period for records that contain personal information about people who may still be alive. The record will remain closed for 100 years from their date of birth. ',
 	'access-to-archives1' => 'A searchable online database which contains the catalogues of archives across England and Wales.',
@@ -230,6 +231,7 @@ $glossaryDefinitions = array(
 	'pieces1' => 'Piece - a record in a series.',
 	'plantation-ports1' => 'Also \'colonial\' ports - mainly West Indies but can include any offshore territory such as the channel islands and the Isle of Man.',
 	'plea-rolls1' => 'Enrolled pleadings and judgment orders.',
+	'plenipotentiaries1' => 'People given full power by a government to act on its behalf.',
 	'poor-law-union1' => 'A union of parishes responsible for enacting the Poor Law in their local area.',
 	'poor-law-unions1' => 'Poor Law Union - a union of parishes responsible for enacting the Poor Law in their local area.',
 	'posteas1' => 'Individual filings which record the results of the hearings under nisi prius arrangements.',
