@@ -1,5 +1,4 @@
 <?php 
-<?php 
 $glossaryDefinitions = array(
 	'100-year-rule' => 'A method for calculating the closure period for records that contain personal information about people who may still be alive. The record will remain closed for 100 years from their date of birth. ',
 	'access-to-archives1' => 'A searchable online database which contains the catalogues of archives across England and Wales.',
