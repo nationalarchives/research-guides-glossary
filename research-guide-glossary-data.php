@@ -60,6 +60,7 @@ $glossaryDefinitions = array(
 	'commissioned1' => 'A commissioned officer is a person who holds their position by royal commission.',
 	'committee-kingdoms' => 'The Committee of Both Kingdoms or \'Derby House Committee\' was responsible for the negotiations with the Scots from 1644.',
 	'committee-money' => 'The Committee for the Advance of Money was responsible for the raising of money (including donations and taxation).',
+	'committee-plundered' => 'The Committee for Plundered Ministers was set up to relieve ministers of the Church plundered by the royalists, many of whom had found refuge in London.',
 	'committee-sequestration' => 'The Sequestration Committee dealt with the estates of royalists (delinquents), absorbed by the Committee for Compounding from c1644.',
 	'committee-indemnity' => 'Committee and Commissioners for Indemnity were appointed to excuse the army and parliamentary officials from liability for acts carried out during the conflict.',
 	'committee-delinquents' => 'Committee for Compounding with Delinquents was responsible for the process by which royalists paid (\'compounded\') with the new regime for the continued ownership of their estates.',
