@@ -68,6 +68,7 @@ $glossaryDefinitions = array(
 	'common-law1' => 'Law developed by judges based on precedents established in previous trials, as opposed to statute law made by politicians.',
 	'common-law2' => 'Law developed by judges based on precedents established in previous trials, as opposed to statute law made by politicians.',
 	'common-recovery-1' => 'A type of conveyance of land by means of a fictitious legal procedure, most commonly used to break entails.',
+	'commutation' => 'Conversion of payments by tithe in kind to money.',
 	'commuted1' => 'Serve as a substitute.',
 	'concurrent-jurisdiction1' => 'Authority of the different types of high courts to hear the same type of cases.',
 	'contaminated-lands' => 'Land which has been changed in some way, usually with the introduction of man made substances (such as military or industrial waste or pollution) or by natural disasters, floods etc. which could be harmful or undesirable or have some kind of impact on the environment generally.',
