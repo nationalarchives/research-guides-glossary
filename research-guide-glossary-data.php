@@ -128,6 +128,7 @@ $glossaryDefinitions = array(
 	'essoins1' => 'Allowable excuses made by litigants for non-attendance in court.',
 	'estate-duty' => 'Tax on all personal and freehold property under the Finance Act 1894.',
 	'eugenicists1' => 'People who advocated improving the genetic quality of the human race by limiting or eliminating undesirable hereditary traits.',
+	'executor1' => 'a person appointed by someone to carry out the terms of their will.',
 	'extent1' => 'Valuation of land or other property.',
 	'external-examinations-for-secondary-schools-1' => 'These had existed since the mid-19th century, e.g. the Oxford and Cambridge Locals.  ',
 	'farmed-out1' => 'Farm comes from the Latin firma or fixed, and relates to the conversion of a tax or revenue stream into a fixed annual payment which is paid at set dates.',
