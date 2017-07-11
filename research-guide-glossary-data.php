@@ -4,6 +4,7 @@ $glossaryDefinitions = array(
 	'access-to-archives1' => 'A searchable online database which contains the catalogues of archives across England and Wales.',
 	'ad-quod-damnum1' => 'A writ directing Crown officials to inquire whether a grant or licence would be prejudicial to the interests of the Crown or others.',
 	'ad-valorem-duty1' => 'A duty which is graded according to the cost, or market value, of the article taxed.',
+	'administration1' => 'Letters of administration are granted by probate courts; they authorise a person or persons to administer the estate of someone who has died without making a will.',
 	'affidavit1' => 'A sworn statement bound by or used as evidence in law.',
 	'affidavits1' => 'An affidavit is a sworn statement bound or used as evidence in law.',
 	'agreements-and-crew-lists1' => 'Written agreements regarding conditions of service and crew lists filed by ships\' masters with the Registrar General of Shipping.',
