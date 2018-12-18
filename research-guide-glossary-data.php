@@ -356,7 +356,7 @@ $glossaryDefinitions = array(
 	'wildcard1' => 'An asterisk used within or instead of search words to account for variant spellings or to avoid specifying a search word altogether.',
 	'writ1' => 'A formal written command of the Crown or of a court.',
 	'writs1' => 'Formal command issued by a court. ',
-	'xpoundx1' => 'There will be a charge to view these records. Searching indexes may be free. Viewing and downloading are free on site at The National Archives.',
+	'xpoundx1' => 'There will be a charge to view these records. Searching indexes is free. Viewing and downloading are free on site at The National Archives.',
 	'xpoundx2' => 'There will be a charge.'	
 );
 ?>
